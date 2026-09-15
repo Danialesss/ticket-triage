@@ -1,0 +1,41 @@
+text,category
+"I was charged twice for my subscription this month",billing
+"My invoice shows the wrong amount, can you correct it",billing
+"When will my refund be processed",billing
+"I need a copy of last month's receipt",billing
+"Why did my payment fail at checkout",billing
+"Can I switch from monthly to annual billing",billing
+"There is an unexpected fee on my statement",billing
+"How do I update my credit card details",billing
+"I want to cancel my plan and get a prorated refund",billing
+"The discount code did not apply to my order",billing
+"The app crashes every time I open the reports page",technical
+"I keep getting a 500 error when I submit the form",technical
+"The dashboard is loading very slowly today",technical
+"Export to PDF is not working on my account",technical
+"I cannot upload files larger than 5MB",technical
+"The integration with our CRM stopped syncing",technical
+"Search returns no results even for valid queries",technical
+"The mobile app freezes on the login screen",technical
+"API calls are timing out intermittently",technical
+"Charts are not rendering in the latest version",technical
+"I forgot my password and cannot reset it",account
+"How do I change the email on my account",account
+"I need to add a new user to my team",account
+"Can you help me enable two factor authentication",account
+"My account seems to be locked after several attempts",account
+"How do I transfer ownership of the workspace",account
+"I want to delete my account permanently",account
+"Please update my company name on the profile",account
+"How do I set different permission levels for members",account
+"I did not receive the verification email",account
+"What are your business hours for support",general
+"Do you offer a discount for nonprofits",general
+"Can you point me to the getting started guide",general
+"Is there a roadmap for upcoming features",general
+"I would like to leave feedback about the product",general
+"Do you have a partner or reseller program",general
+"Where can I find your data privacy policy",general
+"Can I schedule a demo with your team",general
+"What regions do you host data in",general
+"Is there a community forum for users",general
