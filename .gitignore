@@ -6,3 +6,5 @@ artifacts/
 data/processed/
 .pytest_cache/
 .DS_Store
+data/processed_full/
+data/support_tickets_en.csv
